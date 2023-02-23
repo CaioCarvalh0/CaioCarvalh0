@@ -9,6 +9,7 @@
 
 
 ![CaioCarvalh0 GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCarvalh0&show_icons=true&theme=synthwave)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador"/>
 
 ## Minhas habilidades
 <div style="display: inline_block"><br/>
