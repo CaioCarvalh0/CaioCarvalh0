@@ -1,8 +1,7 @@
 # Olá! Eu sou Caio de Carvalho👋
-- Angular
-- Kotlin
-- Java
 - Cursando Analise e Desenvolvimento de Sistemas 💻👨‍💻
+- Desenvolvedor Junior Front-end
+- Angular | Kotlin | Java
 
 ### Contatos:
 [![Contatos](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio_co15/)
