@@ -1,6 +1,6 @@
 # Olá! Eu sou Caio de Carvalho👋
 - Cursando Analise e Desenvolvimento de Sistemas 💻👨‍💻
-- Desenvolvedor Junior Front-end
+- Desenvolvedor Full Stack
 - Angular | Kotlin | Java
 
 ### Contatos:
